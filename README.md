@@ -7,3 +7,4 @@ Using SQL you need to write several queries to analyze two tables in csv format.
 https://drive.google.com/drive/folders/1ftQItR5FNFeLFO8h-VKyuG-eawel6toT?usp=sharing
 
 ## Dashboard:
+https://drive.google.com/file/d/1-fiZX5JjA1Gemvr9ZDYZ3xRRHhIFuK7P/view?usp=sharing
