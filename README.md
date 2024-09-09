@@ -6,7 +6,7 @@ Using SQL you need to write several queries to analyze two tables in csv format.
   - PowerBI (Data visualization)
 
 ## DATASET: 
-https://drive.google.com/drive/folders/1ftQItR5FNFeLFO8h-VKyuG-eawel6toT?usp=sharing
+[The dataset used in this project is available here on Google Drive](https://drive.google.com/drive/folders/1ftQItR5FNFeLFO8h-VKyuG-eawel6toT?usp=sharing)
 
 ## Dashboard:
 
