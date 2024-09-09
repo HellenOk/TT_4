@@ -14,7 +14,7 @@ https://drive.google.com/file/d/1-fiZX5JjA1Gemvr9ZDYZ3xRRHhIFuK7P/view?usp=shari
 
 [The pdf of my dashboard in PowerBI](https://github.com/HellenOk/TT_foz/blob/main/tt_foz_pbi.pdf)
 
-![image](https://github.com/user-attachments/assets/86824be5-ed36-4cd9-aefd-7244f566e4da)
+![image](https://github.com/HellenOk/TT_foz/blob/main/tt_foz_pbi.pdf)
 
 
 
