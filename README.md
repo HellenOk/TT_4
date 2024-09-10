@@ -10,7 +10,7 @@ Using SQL you need to write several queries to analyze two tables in csv format.
 
 ## Dashboard:
 
-tt_foz_pbi.pbix
+[Link if you want see more on Power BI](https://github.com/HellenOk/TT_foz/blob/main/tt_foz_pbi.pbix)
 
 [The pdf of my dashboard in PowerBI](https://github.com/HellenOk/TT_foz/blob/main/tt_foz_pbi.pdf)
 
